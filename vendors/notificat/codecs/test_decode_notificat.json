@@ -1,0 +1,15 @@
+[
+    {
+    "name": "Test decode Notificat data (fPort 1)",
+    "input": {
+      "fPort": 1,
+      "bytes": [0]
+    },
+    "expected": {
+      "data": {
+        "event": "mailbox_opened",
+        "raw": 0
+      }
+    }
+  }
+]

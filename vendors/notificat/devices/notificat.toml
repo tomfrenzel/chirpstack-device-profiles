@@ -1,0 +1,13 @@
+[device]
+id = "0c47dbfe-d888-4fe0-8d43-a902d9e8f591"
+name = "Notificat"
+description = "Notificat Postbox Sensor"
+
+[[device.firmware]]
+version = "1.3.0"
+profiles = ["EU858-1_3_0.toml"]
+codec = "notificat.js"
+
+[device.metadata]
+product_url = "https://notific.at"
+documentation_url = "https://notific.at"

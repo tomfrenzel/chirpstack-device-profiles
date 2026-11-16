@@ -1,0 +1,8 @@
+[vendor]
+id = "eeb7e680-c4be-4e3f-98d9-e213fd666715"
+name = "Notificat"
+vendor_id = 0
+ouis = []
+
+[vendor.metadata]
+homepage = "https://notific.at"
